@@ -1,0 +1,15 @@
+{
+  "name": "@anyahq/wakawaka-android-arm64",
+  "version": "0.1.3",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "wakawaka.android-arm64.node",
+  "files": [
+    "wakawaka.android-arm64.node"
+  ],
+  "license": "AGPL-3.0"
+}

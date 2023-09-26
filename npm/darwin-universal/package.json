@@ -1,0 +1,12 @@
+{
+  "name": "@anyahq/wakawaka-darwin-universal",
+  "version": "0.1.3",
+  "os": [
+    "darwin"
+  ],
+  "main": "wakawaka.darwin-universal.node",
+  "files": [
+    "wakawaka.darwin-universal.node"
+  ],
+  "license": "AGPL-3.0"
+}

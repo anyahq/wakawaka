@@ -1,0 +1,15 @@
+{
+  "name": "@anyahq/wakawaka-android-arm-eabi",
+  "version": "0.1.3",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "wakawaka.android-arm-eabi.node",
+  "files": [
+    "wakawaka.android-arm-eabi.node"
+  ],
+  "license": "AGPL-3.0"
+}

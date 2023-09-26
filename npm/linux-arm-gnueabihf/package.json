@@ -1,0 +1,15 @@
+{
+  "name": "@anyahq/wakawaka-linux-arm-gnueabihf",
+  "version": "0.1.3",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "wakawaka.linux-arm-gnueabihf.node",
+  "files": [
+    "wakawaka.linux-arm-gnueabihf.node"
+  ],
+  "license": "AGPL-3.0"
+}

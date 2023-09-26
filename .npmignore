@@ -1,0 +1,16 @@
+/.cargo
+/.github
+/.yarn
+/npm
+/target
+/test
+/various
+*.node
+.editorconfig
+.eslintrc.js
+.prettierignore
+.yarnrc.yml
+Cargo.lock
+renovate.json
+rustfmt.toml
+yarn.lock

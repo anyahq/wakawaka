@@ -1,0 +1,9 @@
+{
+  "name": "@anyahq/wakawaka-win32-ia32-msvc",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "cpu": ["ia32"],
+  "os": ["win32"],
+  "files": ["./wakawaka.win32-ia32-msvc.node"],
+  "main": "./wakawaka.win32-ia32-msvc.node"
+}

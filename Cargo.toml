@@ -1,0 +1,19 @@
+[package]
+edition = '2021'
+name = 'anyahq_wakawaka'
+version = '0.1.0'
+
+[lib]
+crate-type = ['cdylib']
+
+[dependencies]
+aho-corasick = '1.1.1'
+napi = { default-features = false, features = ['napi4'], version = '2.13.3' }
+napi-derive = '2.13.0'
+zip = '0.6.6'
+
+[build-dependencies]
+napi-build = '2.0.1'
+
+[profile.release]
+lto = true
