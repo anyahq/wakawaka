@@ -7,9 +7,9 @@ version = '0.1.0'
 crate-type = ['cdylib']
 
 [dependencies]
-aho-corasick = '1.1.1'
-napi = { default-features = false, features = ['napi4'], version = '2.13.3' }
-napi-derive = '2.13.0'
+aho-corasick = '1.0.2'
+napi = { default-features = false, features = ['napi4'], version = '2.12.2' }
+napi-derive = '2.12.2'
 zip = '0.6.6'
 
 [build-dependencies]
